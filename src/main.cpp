@@ -2,7 +2,7 @@
 // this is needed for PlatformIO to compile the library
 // it serves no other purpose
 
-#if defined(PLATFORMIO)
+#if defined(OLDER_PLATFORMIO)
 /////////////////////////////////////////////////////////////////
 
 #include "../examples/SingleButtonSimple/SingleButtonSimple.ino"
